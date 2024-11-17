@@ -10,7 +10,7 @@ This project focuses on performing an in-depth analysis of a E-Commerce dataset 
 ### 27th August 2024:
 - **Logo Creation**: Designed the project logo.
 
-![Project Logo][static/IMG_20240827_193636-removebg-preview](https://github.com/user-attachments/assets/d299795a-4d35-456a-9a7a-c6c5f3e44219)
+![Project Logo](static/IMG_20240827_193636-removebg-preview)(https://github.com/user-attachments/assets/d299795a-4d35-456a-9a7a-c6c5f3e44219)
 
 - **GitHub Repository Setup**: Created the repository to document and share the project.
 
